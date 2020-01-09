@@ -25,7 +25,7 @@ expo version = 22 or react native = 49 w/ react 16 beta 5 --- >= rn-draw@0.0.5
 # How to use
 ```
 import RNDraw from 'rn-draw'
-  
+
 <RNDraw
   strokes={[]}
   containerStyle={{backgroundColor: 'rgba(0,0,0,0.01)'}}
@@ -51,10 +51,10 @@ import RNDraw from 'rn-draw'
 
 **onChangeStrokes** [Func] - callback that is called when the draw changes.
 
-  
+
 ## Work in progress
 
-Smoothing out pen strokes (curves) 
+Smoothing out pen strokes (curves)
 
 Image backgrounds
 
